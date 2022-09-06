@@ -3,8 +3,10 @@ This is my final project for Expert System class with my friend. The project is 
 
 The specifications to run the project:
 
-Download Eclipse Neon 2. 
+Download Eclipse Neon 2 
 (https://www.eclipse.org/downloads/packages/release/neon/2)
+
 Install JESS 71p2 import to Eclipse. 
 (https://www.wisdomandwonder.com/article/6449/installing-jess-71p2-in-eclipse-4-2)
+
 Java 8 (PATH).
